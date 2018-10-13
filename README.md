@@ -18,7 +18,23 @@ As known Hadoop works on application layer so the motive of this research is to 
 **_4. Finding solution to the encounter problems if possible._**
 
 
-## YouTube Link
+### Methodology
+
+The Research and Development of this project will be done as Applied Research as this project is
+directed toward gaining knowledge or understanding necessary for determining the means by which
+recognized and specific needs can be met. This topic **_Kernel Level Implementation of Hadoop_** is
+mostly theoretical and not much knowledge can be gained about it. Kernel Level Implementation of
+Hadoop is almost next to impossible till now.
+
+Listed below are some of the possible ways proposed by researchers:
+
+- Virtual Hadoop: Implementation of Hadoop in Virtual Environment using Cloud Stack KVM
+- Offloading computational intensive kernels of machine learning algorithms to a heterogeneous CPU+FPGA platform enhances the performance.
+- XConveryer: Guarantee Hadoop Throughput via Lightweight OS-level Virtualization
+- Hadoop MapReduce for Mobile Clouds
+-Migration of Hadoop To Android Platform Using ‘Chroot’
+
+### YouTube Link
 
 Find the YouTube link below for understanding problem statement and suggested solution:
 
