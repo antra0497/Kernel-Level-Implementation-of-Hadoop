@@ -9,7 +9,7 @@ etc.).
 
 As known Hadoop works on application layer so the motive of this research is to find:
 
-**_1. Why it cannot be implemented at kernel level_**
+**_1. Why it cannot be implemented at kernel level_**  
 
 **_2. What are the difficulties faced?_**
 
@@ -26,7 +26,7 @@ recognized and specific needs can be met. This topic **_Kernel Level Implementat
 mostly theoretical and not much knowledge can be gained about it. Kernel Level Implementation of
 Hadoop is almost next to impossible till now.
 
-Listed below are some of the possible ways proposed by researchers:
+Listed below are some of the possible ways proposed by researchers as of now:
 
 - Virtual Hadoop: Implementation of Hadoop in Virtual Environment using Cloud Stack KVM
 - Offloading computational intensive kernels of machine learning algorithms to a heterogeneous CPU+FPGA platform enhances the performance.
