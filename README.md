@@ -1,4 +1,4 @@
-# R-D-Kernel-Level-Implementation-of-Hadoop
+# Kernel-Level-Implementation-of-Hadoop :R&D
 
 Hadoop is an Apache open source framework written in Java that allows distributed processing of large
 datasets across clusters of computers using simple programming models in a distributed computing
